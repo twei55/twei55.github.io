@@ -47,7 +47,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Decarboxylierung:** Abspaltung von Kohlendioxid aus einem Molekül
 * **Dehydrierung:**  Abspaltung von Wasserstoff aus einer chemischen Verbindung
-* **Denitrifikation (Nitratatmung):** Reduktion von Nitrat NO3- zu Stickstoff N2 und Wasser (und Stickdioxid (N2O)) durch Bakterien (unter anoxischen Bedingungen)
+* **Denitrifikation (Nitratatmung):** Reduktion von Nitrat NO3- zu Stickstoff N2 und Wasser (und Stickdioxid (N2O)) durch Bakterien (unter anoxischen Bedingungen)
 * **Desaminierung:** Abspaltung einer Aminogruppe als Ammoniak oder Ammonium-Ion
 * **Destruenten:** Organismen, die organische Materie in anorganische umwandeln (Bakterien, Pilze)
 * **Desorption:** Vorgang, bei dem Atome oder Moleküle die Oberfläche eines Festkörpers verlassen
@@ -68,7 +68,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Euphotische Zone:** Obere, durchleuchtete Schicht des Wassers, in der effektive Photosynthese möglich ist und somit Pflanzen wachsen und Sauerstoff produzieren können
 * **Eutroph:** Gewässer mit hohem Phosphatgehalt und daher hoher Produktion von Biomasse
 * **eury:** breit
-* **Eurypotenz:** breite ökologische Amplitude
+* **Eurypotenz / Euryökie:** breite ökologische Amplitude, großer Toleranzbereich hinsichtlich des Ertragens einer oder mehrerer Umweltfaktoren
 * **Evaporation:** Verdunstung an der Bodenoberfläche
 * **exogene Bodenkräfte:** Kräfte, die von Außen einebnend wirken
 
@@ -216,7 +216,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Sesquioxide:** Oxide, die ein Verhältnis des Metalls oder Halbmetalls zu Sauerstoff von 1 :** 1,5 aufweisen (sesqui = „eineinhalbfach“), z.B. Al<sub>2</sub>O<sub>3</sub>.
 * **Sorption:** Sammelbezeichnung für Vorgänge, die zu einer Anreicherung eines Stoffes innerhalb einer Phase oder auf einer Grenzfläche zwischen zwei Phasen führen (Absorption, Adsorption)
 * **steno:** eng, schmal
-* **Stenopotenz:** Schmale ökologische Amplitude
+* **Stenopotenz / Stenökie:** Schmale ökologische Amplitude, geringer Toleranzbereich hinsichtlich des Ertragens einer oder mehrerer Umweltfaktoren
 * **Stomata:** Spaltöffnungen von Pflanzen, die den Austausch von Gasen und Wasser ermöglichen
 * **Sukzession:** Zeitliche Abfolge von Pflanzen-, Tier- oder Pilzgesellschaften (Biozönose) an einem Standort
 * **Supralitoral:** Spritzwasserzone am Meer
@@ -234,6 +234,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 ### U
 
+* **Ubiquisten:** Tier- oder Pflanzenart, die eine große Bandbreite verschiedener Umweltfaktoren ertragen (Euryökie) und sich rasch ausbreiten kann
 * **Ultimatfaktor:** Grund, warum ein Umweltfaktor eine Reaktion im Organismus auslöst (grundlegende Ursache)
 
 <a name="v"></a>
