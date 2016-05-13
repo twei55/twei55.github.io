@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Umweltschutz Glossar
+title: Glossar
+subtitle: Umweltwissenschaftliche Fachbegriffe
 ---
+[A](#a)|[B](#b)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[X](#x)
+
+<a name="a"></a>
 
 ### A
 
@@ -28,12 +32,16 @@ title: Umweltschutz Glossar
 * **autochthon:** biotopeigen, einheimisch, an Ort und Stelle entstanden
 * **Autökologie:** Bereich der Ökologie, der die Wechselwirkung zwischen Einzelorganismen und ihrer Umwelt und die Auswirkung verschiedener Umweltfaktoren (Licht, Nahrung, Feuchtigkeit, Druck, Salzgehalt, ...) auf einzelne Individuen untersucht
 
+<a name="b"></a>
+
 ### B
 
 * **Benthal:** Bodenzone eines Sees
 * **Bodenprofil:** Vertikale Abfolge der Bodenhorizonte
 * **Bodenatmung:** Prozess des O2-Verbrauchs und der CO2-Freisetzung infolge des mikrobiellen Abbaus der organischen Bodensubstanz
 * **Biozönose:** Lebensgemeinschaft von verschiedenen Arten
+
+<a name="d"></a>
 
 ### D
 
@@ -46,6 +54,8 @@ title: Umweltschutz Glossar
 * **Detritus:** Abgestorbene, organische Biomasse
 * **Dispergierung:** Homogenisierung von Stoffen oder auch die optimale Durchmischung
 * **Dissimilation:** Abbau von zuvor angelegten stofflichen Energiespeichern (zum Beispiel Fette und Kohlenhydrate) unter Freisetzung von Energie
+
+<a name="e"></a>
 
 ### E
 
@@ -62,14 +72,20 @@ title: Umweltschutz Glossar
 * **Evaporation:** Verdunstung an der Bodenoberfläche
 * **exogene Bodenkräfte:** Kräfte, die von Außen einebnend wirken
 
+<a name="f"></a>
+
 ### F
 
 * **Feldkapazität:** Max. Haftwassermenge gemessen am natürlichen Boden mit freiem Wasserabzug
+
+<a name="g"></a>
 
 ### G
 
 * **Genotyp:** Der Genotyp oder das Erbbild bezeichnet alle in der DNA codierten genetischen Informationen eines Organismus, die er im Zellkern trägt. Sie bedingen zusammen mit den Umwelteinflüssen das Erscheinungsbild eines Lebewesens. Davon zu unterscheiden ist der Phänotyp (äußere Merkmale) eines Organismus. Nur diejenigen Gene, die in Proteine umgesetzt werden (Expression) sind an der Ausprägung des Phänotyps beteiligt. So können Pflanzen mit gleichem Genotyp – beeinflusst von den Wachstumsbedingungen - verschiedene Phänotypen entwickeln.
 * **Geogen:** Beschreibung von Stoff- oder Elementkonzentrationen im Boden, Luft und Wasser, die auf natürliche Prozesse zurückzuführen sind
+
+<a name="h"></a>
 
 ### H
 
@@ -90,11 +106,15 @@ title: Umweltschutz Glossar
 * **Hypolimnion:** Untere Wasserschichten, in einem geschichteten stehenden Gewässer
 * **hyporheisches Interstitial:** ökologischer Lebensraum des Hohlraumsystems in dem von Fließgewässern abgelagerten Lockergestein, das sich dicht neben oder unter dem Oberflächenwasser eines Fließgewässers befindet. Die Zone, die sich unterhalb und seitlich an das Hyporheische Interstitial anschließt, wird auch uferfernes Interstitial genannt.
 
+<a name="i"></a>
+
 ### I
 
 * **Immision:** Luftverunreinigungen, die ständig oder vorübergehend in Bodennähe verweilen und auf Mensch, Tier und Pflanzen einwirken
 * **Induktion:** Einleitung eines entwicklungsphysiologischen Vorgangs
 * **Integument:** äußere Körperhülle von Schnecken / Amphibien
+
+<a name="k"></a>
 
 ### K
 
@@ -109,6 +129,8 @@ title: Umweltschutz Glossar
 * **Kutikula:** hochmolekulare Lipidschicht auf der Oberfläche höherer Landpflanzen
 * **Kryoklastik:** Frostsprengung, durch frierendes und wieder auftauendes Wasser
 
+<a name="l"></a>
+
 ### L
 
 * **Leguminosen:** Luftstickstoffbindende Pflanzen
@@ -117,6 +139,8 @@ title: Umweltschutz Glossar
 * **Lithosphäre:** Gesteinsmantel der Erde
 * **Lithogenese:** Entstehung des Bodensubstrats
 * **Litoral:** Uferzone
+
+<a name="m"></a>
 
 ### M
 
@@ -130,9 +154,13 @@ title: Umweltschutz Glossar
 * **Mikrobiell:** Mikroorganismen, Mikroben, Kleinstlebewesen
 * **Morphogenese:** Entwicklung eines Organismus
 
+<a name="n"></a>
+
 ### N
 
 * **Nitrifikation (Nitrifizierung):** Umwandlung von Ammonium/Ammoniak zu Nitrit (NO<sub>2</sub><sup>-</sup>, instabil) und später zu Nitrat (NO3-) unter Verbrauch von Sauerstoff (Ammoniak ist in der Harnsäure enthalten oder entsteht bei der Zersetzung von Biomasse). Der Prozess der N. wird von autotroph lebenden Nitrit- und Nitratbildnern getragen (Nitrosomonas, Nitrobacter)
+
+<a name="o"></a>
 
 ### O
 
@@ -144,6 +172,8 @@ title: Umweltschutz Glossar
 * **Osmotischer Druck:** Druck, den man auf die Lösung ausüben muss, um das Eindringen von Lösungsmittelteilchen zu verhindern
 * **Oxisch:** Sauerstoff in freier und gebundener Form vorhanden
 * **Ozeanologie:** Meereskunde
+
+<a name="p"></a>
 
 ### P
 
@@ -169,11 +199,14 @@ title: Umweltschutz Glossar
 * **Proximatfaktor:** Umweltfaktor, der eine bestimmte, unmittelbare Reaktion in einem Organismus auslöst
 * **Protozoen:** einzellige Tiere
 
+<a name="r"></a>
 
 ### R
 
 * **Rhithral:** Ober- bis Mittellauf eines Fließgewässers, Bachzone (aufgeteilt in Epi-, Meta- und Hyporhithral, Forellen- und Äschenzone)
 * **RNA-Polymerase:** Enzyme, die die Synthese von RNA bei der Transkription der DNA katalysieren
+
+<a name="s"></a>
 
 ### S
 
@@ -189,20 +222,27 @@ title: Umweltschutz Glossar
 * **Supralitoral:** Spritzwasserzone am Meer
 * **Synökologie:** Bereich der Ökologie, der die Wechselwirkung innerhalb biologischer Gesellschaften und Biozönosen und deren Abhängigkeit vom Biotop untersucht
 
+<a name="t"></a>
+
 ### T
 
 * **Taupunkt:** Temperatur, bei der die Luft mit Wasserdampf gesättigt ist. Am Taupunkt betrifft die relative Luftfeuchtigkeit 100%. Wird die Taupunkttemperatur bei unverändertem Druck unterschritten, wird aus feuchter Luft Tau oder Nebel aus feuchter Luft abgeschieden
 * **Tugor(druck):** Druck des Zellsaftes auf die Zellwand
 * **Transkription:** Synthese von RNA (Ribonukleinsäure) auf Vorlage einer DNA
 
+<a name="u"></a>
+
 ### U
 
 * **Ultimatfaktor:** Grund, warum ein Umweltfaktor eine Reaktion im Organismus auslöst (grundlegende Ursache)
+
+<a name="v"></a>
 
 ### V
 
 * **Vakuole:** Große Zellorganellen in Pflanzen
 
+<a name="x"></a>
 
 ### X
 
