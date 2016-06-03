@@ -24,6 +24,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Aerob:** Sauerstoff ist in molekular Form gelöst im Wasser vorhanden
 * **Anoxisch:** Sauerstoff nur ungelöst gebunden vorhanden
 * **Anaerob:** Sauerstoff weder gelöst noch ungelöst gebunden vorhanden
+* **Antagonist:** biologische Art, die in Konkurrenz oder Feindbeziehung zu einer anderen Art steht
 * **Atmung (allgemein):** Die Atmung ist die Oxidation eines energiereichen Stoffs (Reduktans), beispielsweise Glucose, unter Reduktion eines externen, Elektronen akzeptierenden Stoffs (Oxidans, beispielsweise Sauerstoff), wobei ein (großer) Teil der freiwerdenden Energie dieser Redoxreaktion durch Synthese energiereicher Moleküle chemisch gespeichert wird.
 * **Assimilation:** Eingliederung körperfremder Stoffe - meistens unter Energiezufuhr - und Umwandlung in körpereigene Verbindungen
 * **auto:** selbst, eigen, persönlich, unmittelbar
@@ -62,8 +63,10 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Edaphon:** Gesamtheit der im Boden lebenden Bodenorganismen
 * **Ektotherm:** Tiere, die Wärme von außen aufnehmen
 * **Emission:** in die Außenluft entweichende feste, flüssige oder gasförmige Stoffe
+* **Endemisch**: Tier- oder Pflanzenart, die nur in begrenzten Gebieten vorkommt
 * **Endotherm:** Tiere, die ihre Temperatur von innen her regulieren können
 * **Epilimnion:** Obere erwärmte und stark bewegte Wasserschicht in einem geschichteten stehenden Gewässer
+* **Eremit**: Blatthornkäfer
 * **Eukaryoten:** Unter Eukaryoten oder Eukaryonten werden alle Lebewesen zusammengefasst, deren Zellen einen Zellkern besitzen.
 * **Euphotische Zone:** Obere, durchleuchtete Schicht des Wassers, in der effektive Photosynthese möglich ist und somit Pflanzen wachsen und Sauerstoff produzieren können
 * **Eutroph:** Gewässer mit hohem Phosphatgehalt und daher hoher Produktion von Biomasse
@@ -146,6 +149,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Magmatite:** Gesteine, die durch Magmaerstarrung entstanden sind
 * **Makrophyten:** Pflanzen
+* **Melioration**: kulturtechnische Maßnahmen zur Werterhöhung des Bodens, wie Be- oder Entwässerung, Drainierung, Eindeichung von Überschwemmungsgebieten, Kultivierung von Mooren und Heide (von meliorare = verbessern)
 * **Mesotroph:**  Gewässer, die sich in einem Übergangsstadium von der Oligotrophie zur Eutrophie befinden
 * **Metalimnion:** Sprungschicht, zwischen Epiliminion und Hypolimnion, mit steilem Temperaturgradienten
 * **Metamorphite:** Gesteine, die aus Umformung aus Magmatiten und Sedimentiten entstehen
@@ -158,6 +162,8 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 ### N
 
+* **Nematoden**: Fadenwürmer
+* **Nimby**: Not in my Backyard, Sankt-Florians-Prinzip, ethische und politische Position, die darauf bedacht ist, Probleme nicht im unmittelbaren Umfeld zu ertragen
 * **Nitrifikation (Nitrifizierung):** Umwandlung von Ammonium/Ammoniak zu Nitrit (NO<sub>2</sub><sup>-</sup>, instabil) und später zu Nitrat (NO3-) unter Verbrauch von Sauerstoff (Ammoniak ist in der Harnsäure enthalten oder entsteht bei der Zersetzung von Biomasse). Der Prozess der N. wird von autotroph lebenden Nitrit- und Nitratbildnern getragen (Nitrosomonas, Nitrobacter)
 
 <a name="o"></a>
@@ -178,6 +184,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 ### P
 
 * **Parthenogenese:** Eingeschlechtliche Fortpflanzung
+* **Paludikultur:** landwirtschaftliche Nutzung nasser Hoch- und Niedermoore
 * **Passatwinde:** Mäßig starker und sehr beständiger Winde, die in den Tropen bis zu etwa 30° geographischer Breite rund um den Erdball aufteten. Auf der Nordhalbkugel weht der Nordost-, auf der Südhalbkugel der Südostpassat.
 * **Pedosphäre:** Bodenhülle der Erde
 * **Pedotop:** Flächenbereich einer Bodeneinheit
