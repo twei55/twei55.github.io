@@ -67,6 +67,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Endotherm:** Tiere, die ihre Temperatur von innen her regulieren können
 * **Epilimnion:** Obere erwärmte und stark bewegte Wasserschicht in einem geschichteten stehenden Gewässer
 * **Eremit**: Blatthornkäfer
+* **Erlenbruchwälder**: Erlenbruchwälder wachsen häufig auf besser nährstoffversorgten Niedermoorböden mit Schwerpunkt in planaren bis submontanen Regionen
 * **Eukaryoten:** Unter Eukaryoten oder Eukaryonten werden alle Lebewesen zusammengefasst, deren Zellen einen Zellkern besitzen.
 * **Euphotische Zone:** Obere, durchleuchtete Schicht des Wassers, in der effektive Photosynthese möglich ist und somit Pflanzen wachsen und Sauerstoff produzieren können
 * **Eutroph:** Gewässer mit hohem Phosphatgehalt und daher hoher Produktion von Biomasse
@@ -94,6 +95,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Haber-Bosch-Verfahren:** Chemisches Verfahren zur Herstellung von Ammoniak aus Stickstoff und Sauerstoff
 * **Helio:** Sonne
+* **Hemerobie:** Maß für den gesamten Einfluss des Menschen auf natürliche Ökosysteme (Naturnähe, Naturferne)
 * **hetero:** anders, fremd, ungleich, verschieden
 * **heterotrophe Organismen:** Organismen, die organische Stoffe als Energiequelle verwenden
 * **Heterotrophie:** Verwertung organischer Kohlenstoffquellen zum Aufbau eigener Körpersubstanz
@@ -115,12 +117,14 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Immision:** Luftverunreinigungen, die ständig oder vorübergehend in Bodennähe verweilen und auf Mensch, Tier und Pflanzen einwirken
 * **Induktion:** Einleitung eines entwicklungsphysiologischen Vorgangs
+* **Insektenkalamitäten:** Schäden durch Insekten
 * **Integument:** äußere Körperhülle von Schnecken / Amphibien
 
 <a name="k"></a>
 
 ### K
 
+* **Klimaxvegetation**: Relativ stabiler Endzustand der Vegetation, der sich im Laufe der Sukzession herausbildet
 * **Kolluvium:** Bezeichnet eine meist mehrere Dezimeter mächtige Schicht von Lockersedimenten, die vorwiegend aus durch Anschwemmung umgelagertem Bodenmaterial oder anderen meist lehmigen oder sandigen Lockersedimenten entstehen
 * **Kolloide:** Teilchen oder Tröpfchen, die im Dispersionsmedium (Feststoff, Gas oder Flüssigkeit) fein verteilt sind
 * **Kohäsion:** Zusammenhalt zwischen Atomen / Molekülen:** 
@@ -151,12 +155,14 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Makrophyten:** Pflanzen
 * **Melioration**: kulturtechnische Maßnahmen zur Werterhöhung des Bodens, wie Be- oder Entwässerung, Drainierung, Eindeichung von Überschwemmungsgebieten, Kultivierung von Mooren und Heide (von meliorare = verbessern)
 * **Mesotroph:**  Gewässer, die sich in einem Übergangsstadium von der Oligotrophie zur Eutrophie befinden
+* **Mesophil:** Mesophile Lebewesen bevorzugen mittlere, nicht extreme Umweltbedingungen, v.a. hinsichtlich Temperatur und Niederschlag
 * **Metalimnion:** Sprungschicht, zwischen Epiliminion und Hypolimnion, mit steilem Temperaturgradienten
 * **Metamorphite:** Gesteine, die aus Umformung aus Magmatiten und Sedimentiten entstehen
 * **Metabolit:** Zwischenprodukt (Intermediat) in einem meist biochemischen Stoffwechselweg
 * **Metazoen:** vielzellige Tiere
 * **Mikrobiell:** Mikroorganismen, Mikroben, Kleinstlebewesen
-* **Morphogenese:** Entwicklung eines Organismus
+* **monopodiales Wachstum:** bevorzugtes Wachstum an der Hauptachse (Spitze)
+* **Morphogenese:** Aüßerliche Formentwicklung eines Organismus
 
 <a name="n"></a>
 
@@ -174,6 +180,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Ökosystem:** Biotop + Biozönose
 * **oligo:** wenig
 * **Oligotroph:** Gewässer mit wenig Nährstoffen und daher geringer organischer Produktion
+* **Ontogenese:** Entwicklung eines Einzelorgansismus
 * **Osmose:** Diffusion von Teilchen durch eine selektiv permeable Membran
 * **Osmotischer Druck:** Druck, den man auf die Lösung ausüben muss, um das Eindringen von Lösungsmittelteilchen zu verhindern
 * **Oxisch:** Sauerstoff in freier und gebundener Form vorhanden
@@ -220,13 +227,15 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Saprovoren:** Organismen, die von totem organischem Material ernähren (Destruenten), z.B. Pilze
 * **Sedimentite:** Absatzgesteine, die durch Verwitterung und Absatz oder auch biogen durch die Akkumulation von Organismenteilen entstehen (an der Oberfläche vorherrschendes Bodenausgangsgestein)
 * **Sekundärmetabolite:** Chemische Stoffe, die von Pflanzen, Bakterien und Pilzen produziert werden, für deren Wachstum und Überleben aber nicht notwendig zu sein scheinen (Stoffwechselendprodukte)
-* **Sesquioxide:** Oxide, die ein Verhältnis des Metalls oder Halbmetalls zu Sauerstoff von 1 :** 1,5 aufweisen (sesqui = „eineinhalbfach“), z.B. Al<sub>2</sub>O<sub>3</sub>.
+* **Seneszenz:** Prozess des Alterns bei Pflanzen / Organismen
+* **Sesquioxide:** Oxide, die ein Verhältnis des Metalls oder Halbmetalls zu Sauerstoff von 1:1,5 aufweisen (sesqui = „eineinhalbfach“), z.B. Al<sub>2</sub>O<sub>3</sub>.
 * **Sorption:** Sammelbezeichnung für Vorgänge, die zu einer Anreicherung eines Stoffes innerhalb einer Phase oder auf einer Grenzfläche zwischen zwei Phasen führen (Absorption, Adsorption)
 * **steno:** eng, schmal
 * **Stenopotenz / Stenökie:** Schmale ökologische Amplitude, geringer Toleranzbereich hinsichtlich des Ertragens einer oder mehrerer Umweltfaktoren
 * **Stomata:** Spaltöffnungen von Pflanzen, die den Austausch von Gasen und Wasser ermöglichen
-* **Sukzession:** Zeitliche Abfolge von Pflanzen-, Tier- oder Pilzgesellschaften (Biozönose) an einem Standort
+* **Sukzession:** Zeitliche gestaffelte Abfolge von Pflanzen-, Tier- oder Pilzgesellschaften (Biozönosen) an einem Standort
 * **Supralitoral:** Spritzwasserzone am Meer
+* **sympodiales Wachstum:** jeweils ein Seitenzweig wächst als Triebverlängerung
 * **Synökologie:** Bereich der Ökologie, der die Wechselwirkung innerhalb biologischer Gesellschaften und Biozönosen und deren Abhängigkeit vom Biotop untersucht
 
 <a name="t"></a>
@@ -236,6 +245,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Taupunkt:** Temperatur, bei der die Luft mit Wasserdampf gesättigt ist. Am Taupunkt betrifft die relative Luftfeuchtigkeit 100%. Wird die Taupunkttemperatur bei unverändertem Druck unterschritten, wird aus feuchter Luft Tau oder Nebel aus feuchter Luft abgeschieden
 * **Tugor(druck):** Druck des Zellsaftes auf die Zellwand
 * **Transkription:** Synthese von RNA (Ribonukleinsäure) auf Vorlage einer DNA
+* **Trockenrasen:** Biotope, die sich an trockenen, nährstoffarmen Standorten ausbilden. In dem von Trockenheit geprägten Magerrasen wachsen niedrige Kraut- und Halbstrauchpflanzen.
 
 <a name="u"></a>
 
