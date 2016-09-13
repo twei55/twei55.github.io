@@ -10,6 +10,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 ### A
 
 * **Absorption:** Aufnahme oder „Lösen“ eines Atoms, Moleküls oder eines Ions in das freie Volumen der absorbierenden Phase
+* **Abundanz:** Anzahl von Organismen in Bezug auf eine Flächen- oder Raumeinheit
 * **Adhäsion:** Anhaftkraft, Haften von Molekülen an einer festen Grenzfläche
 * **Adsorption:** Anreicherung von Stoffen aus Gasen oder Flüssigkeiten an der Oberfläche eines Festkörpers
 * **Advektion:** Horizontale Luftbewegung
@@ -24,7 +25,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Aerob:** Sauerstoff ist in molekular Form gelöst im Wasser vorhanden
 * **Anoxisch:** Sauerstoff nur ungelöst gebunden vorhanden
 * **Anaerob:** Sauerstoff weder gelöst noch ungelöst gebunden vorhanden
-* **Antagonist:** biologische Art, die in Konkurrenz oder Feindbeziehung zu einer anderen Art steht
+* **Antagonist:** biologische Art, die in Konkurrenz oder Feindbeziehung zu einer anderen Art steht (natürliche Gegenspieler)
 * **Atmung (allgemein):** Die Atmung ist die Oxidation eines energiereichen Stoffs (Reduktans), beispielsweise Glucose, unter Reduktion eines externen, Elektronen akzeptierenden Stoffs (Oxidans, beispielsweise Sauerstoff), wobei ein (großer) Teil der freiwerdenden Energie dieser Redoxreaktion durch Synthese energiereicher Moleküle chemisch gespeichert wird.
 * **Assimilation:** Eingliederung körperfremder Stoffe - meistens unter Energiezufuhr - und Umwandlung in körpereigene Verbindungen
 * **auto:** selbst, eigen, persönlich, unmittelbar
@@ -53,6 +54,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Destruenten:** Organismen, die organische Materie in anorganische umwandeln (Bakterien, Pilze)
 * **Desorption:** Vorgang, bei dem Atome oder Moleküle die Oberfläche eines Festkörpers verlassen
 * **Detritus:** Abgestorbene, organische Biomasse
+* **Diatomeen:** Kieselalgen
 * **Dispergierung:** Homogenisierung von Stoffen oder auch die optimale Durchmischung
 * **Dissimilation:** Abbau von zuvor angelegten stofflichen Energiespeichern (zum Beispiel Fette und Kohlenhydrate) unter Freisetzung von Energie
 
@@ -88,6 +90,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Genotyp:** Der Genotyp oder das Erbbild bezeichnet alle in der DNA codierten genetischen Informationen eines Organismus, die er im Zellkern trägt. Sie bedingen zusammen mit den Umwelteinflüssen das Erscheinungsbild eines Lebewesens. Davon zu unterscheiden ist der Phänotyp (äußere Merkmale) eines Organismus. Nur diejenigen Gene, die in Proteine umgesetzt werden (Expression) sind an der Ausprägung des Phänotyps beteiligt. So können Pflanzen mit gleichem Genotyp – beeinflusst von den Wachstumsbedingungen - verschiedene Phänotypen entwickeln.
 * **Geogen:** Beschreibung von Stoff- oder Elementkonzentrationen im Boden, Luft und Wasser, die auf natürliche Prozesse zurückzuführen sind
+* **Gilde:** Gruppe von Arten, die in einem Lebensraum (Biotop) dieselbe Klasse von Umwelt-Ressourcen (natürliche Ressourcen) in ähnlicher Weise ausbeuten.
 
 <a name="h"></a>
 
@@ -124,6 +127,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 ### K
 
+* **Kairomone:** Interspezifisch (zwischen Arten) wirkende Botenstoffe zur Signalübertragung (vorteilhaft für Empfänger)
 * **Klimaxvegetation**: Relativ stabiler Endzustand der Vegetation, der sich im Laufe der Sukzession herausbildet
 * **Kolluvium:** Bezeichnet eine meist mehrere Dezimeter mächtige Schicht von Lockersedimenten, die vorwiegend aus durch Anschwemmung umgelagertem Bodenmaterial oder anderen meist lehmigen oder sandigen Lockersedimenten entstehen
 * **Kolloide:** Teilchen oder Tröpfchen, die im Dispersionsmedium (Feststoff, Gas oder Flüssigkeit) fein verteilt sind
@@ -152,7 +156,9 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 ### M
 
 * **Magmatite:** Gesteine, die durch Magmaerstarrung entstanden sind
-* **Makrophyten:** Pflanzen
+* **Makroinvertebraten:** Wirbellose Kleinstlebewesen, welche die Gewässersohle und die dort wachsenden Pflanzen besiedeln
+* **Makrophyten:** höhere Wasserpflanzen, die im oder am Gewässer wachsen
+* **Makrozoobenthos:** Tierische Organismen, die im Benthal eines Gewässers leben
 * **Melioration**: kulturtechnische Maßnahmen zur Werterhöhung des Bodens, wie Be- oder Entwässerung, Drainierung, Eindeichung von Überschwemmungsgebieten, Kultivierung von Mooren und Heide (von meliorare = verbessern)
 * **Mesotroph:**  Gewässer, die sich in einem Übergangsstadium von der Oligotrophie zur Eutrophie befinden
 * **Mesophil:** Mesophile Lebewesen bevorzugen mittlere, nicht extreme Umweltbedingungen, v.a. hinsichtlich Temperatur und Niederschlag
@@ -201,7 +207,10 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Periderm:** Sekundäres Abschlußgewebe bei Zweigen
 * **Petrogene Minerale:** Minerale im Boden, die aus dem Ausgangsgestein stammen
 * **Phänotyp:** Summe aller Merkmale eines Organismus. Er schließt alle inneren und äußeren Strukturen und Funktionen ein. Im Laufe der individuellen Entwicklung kann sich der Phänotyp eines Organismus ändern. Der Phänotyp wird durch das Zusammenwirken von Erbanlagen und Umweltfaktoren (Modifikation) bestimmt.
+* **Pheromone:** Intraspezifisch (innerhalb einer Art) wirkende Botenstoffe zur Signalübertragung
 * **Phosphatasen:** Gruppe von Enzymen, die aus Phosphatestersäuren und Polyphosphaten Phosphatsäure abspalten kann
+* **Phytobenthos:** auf dem Sediment, auf Steinen und Pflanzenoberflächen lebende Mikroalgen
+* **Phytoplankton:** photoautotrophes Plankton, vor allem bestehend aus Kieselalgen (Bacillariophyta), Grünalgen, Goldalgen, Dinoflagellaten und Cyanobakterien (Blaualgen)
 * **Populationsökologie:** Bereich der Ökologie, der die Wechselwirkung von tierischen und pflanzlichen Populationen untereinander und gegenüber der Umwelt untersucht
 * **poikil:** Variabel
 * **Poikilotherm:** Wechselwarme Tiere, deren Körpertemperatur sich der Umgebungstemperatur anpasst
@@ -224,6 +233,8 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 ### S
 
+* **Saprobie:** Maß für den Gehalt von organischen, leicht unter Sauerstoffverbrauch abbaubaren Substanzen im Wasser. Meist wird die Saprobie eines Fließgewässers anhand von Indikatororganismen (Saprobier, Mehrzahl Saprobien) gemessen und ein Saprobienindex und daraus eine Gewässergüteklasse ermittelt 
+* **Saprobiensystem:** Bewertungssystem zur Ermittlung der biologischen Wasserqualität von Fließgewässern und ihrer Einordnung in Gewässergüteklassen
 * **Saprovoren:** Organismen, die von totem organischem Material ernähren (Destruenten), z.B. Pilze
 * **Sedimentite:** Absatzgesteine, die durch Verwitterung und Absatz oder auch biogen durch die Akkumulation von Organismenteilen entstehen (an der Oberfläche vorherrschendes Bodenausgangsgestein)
 * **Sekundärmetabolite:** Chemische Stoffe, die von Pflanzen, Bakterien und Pilzen produziert werden, für deren Wachstum und Überleben aber nicht notwendig zu sein scheinen (Stoffwechselendprodukte)
@@ -243,9 +254,11 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 ### T
 
 * **Taupunkt:** Temperatur, bei der die Luft mit Wasserdampf gesättigt ist. Am Taupunkt betrifft die relative Luftfeuchtigkeit 100%. Wird die Taupunkttemperatur bei unverändertem Druck unterschritten, wird aus feuchter Luft Tau oder Nebel aus feuchter Luft abgeschieden
+* **Taxon/Taxa:** Bezeichnet in der Systematik der Biologie eine Einheit, der entsprechend bestimmter Kriterien eine Gruppe von Lebewesen zugeordnet wird
 * **Tugor(druck):** Druck des Zellsaftes auf die Zellwand
 * **Transkription:** Synthese von RNA (Ribonukleinsäure) auf Vorlage einer DNA
 * **Trockenrasen:** Biotope, die sich an trockenen, nährstoffarmen Standorten ausbilden. In dem von Trockenheit geprägten Magerrasen wachsen niedrige Kraut- und Halbstrauchpflanzen.
+* **Trophie:** Menge der Biomasse und Umsatz der photoautotrophen Organismen eines Gewässers, also ein Maß für die Intensität der Primärproduktion (Trrophiegrad)
 
 <a name="u"></a>
 
