@@ -3,9 +3,7 @@
 if ('showNotification' in ServiceWorkerRegistration.prototype) {
   navigator.serviceworker.ready
   .then(registration => {
-    return registration.pushManager.subscribe({
-      userVisibleOnly: true
-    });
+    return registration.pushManager.subscribe({userVisibleOnly: true});
   })
   .then(subscription => {
     // Do something with the subscription.
@@ -15,17 +13,24 @@ if ('showNotification' in ServiceWorkerRegistration.prototype) {
   });
 }
 
-self.addEventListener('push', function(event) {
-  console.log('Received a push message', event);
-
-  var title = 'Hello from Babbel Magazine.';
-  var body = 'We have a new article';
-
-  event.waitUntil(
-    self.registration.showNotification(title, {
-      body: body,
-    })
-  );
-});
+// Check for permission
+if(Notification.permission=='granted') {
+  // Get service worker to show notification
+   self.registration.showNotification("Hello from Babbel Magazine", {
+      body: "We have a new article",
+      icon: 'favicon.ico'
+  });
+}
+else {
+  //We need to ask permission
+  Notification.requestPermission(function(permission) {
+    if(permission=='granted') {
+      self.registration.showNotification("Hello from Babbel Magazine", {
+        body: "We have a new article",
+        icon: 'favicon.ico'
+      });
+    }
+  });
+}
 
 
