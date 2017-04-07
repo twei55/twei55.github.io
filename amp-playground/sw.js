@@ -1,15 +1,17 @@
 'use strict';
 
-navigator.serviceWorker.ready.then(function(serviceWorkerRegistration) {
-  serviceWorkerRegistration.pushManager.subscribe({userVisibleOnly: true})
-    .then(function(pushSubscription) {
-      // Show Notification
-      showNotification();
-    })
-    .catch(function(e) {
-      console.error('Unable to register push subscription', e);
-    });
-});
+function subscribePush() {
+  navigator.serviceWorker.ready.then(function(serviceWorkerRegistration) {
+    serviceWorkerRegistration.pushManager.subscribe({userVisibleOnly: true})
+      .then(function(pushSubscription) {
+        // Show Notification
+        showNotification();
+      })
+      .catch(function(e) {
+        console.error('Unable to register push subscription', e);
+      });
+  });
+}
 
 // Check for permission
 function showNotification() {
