@@ -1,15 +1,15 @@
 'use strict';
 
-if ('showNotification' in ServiceWorkerRegistration.prototype) {
-  navigator.serviceworker.ready
-  .then(registration => {
-    return registration.pushManager.subscribe({userVisibleOnly: true});
-  })
-  .then(subscription => {
-    showNotification();
-  })
-  .catch(error => {
-    console.log("Subscribing to push notifications failed.");
+function subscribePush() {
+  navigator.serviceWorker.ready.then(function(serviceWorkerRegistration) {
+    serviceWorkerRegistration.pushManager.subscribe({userVisibleOnly: true})
+      .then(function(pushSubscription) {
+        // Show Notification
+        showNotification();
+      })
+      .catch(function(e) {
+        console.error('Unable to register push subscription', e);
+      });
   });
 }
 
@@ -37,4 +37,4 @@ function showNotification() {
   }
 }
 
-
+subscribePush();
