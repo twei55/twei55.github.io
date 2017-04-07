@@ -6,31 +6,35 @@ if ('showNotification' in ServiceWorkerRegistration.prototype) {
     return registration.pushManager.subscribe({userVisibleOnly: true});
   })
   .then(subscription => {
-    // Do something with the subscription.
+    showNotification();
   })
   .catch(error => {
-    // Do something with the error.
+    console.log("Subscribing to push notifications failed.");
   });
 }
 
 // Check for permission
-if(Notification.permission=='granted') {
-  // Get service worker to show notification
-   self.registration.showNotification("Hello from Babbel Magazine", {
-      body: "We have a new article",
-      icon: 'favicon.ico'
-  });
-}
-else {
-  //We need to ask permission
-  Notification.requestPermission(function(permission) {
-    if(permission=='granted') {
-      self.registration.showNotification("Hello from Babbel Magazine", {
+function showNotification() {
+  if(Notification.permission=='granted') {
+      console.log("Permissions granted.");
+    // Get service worker to show notification
+     self.registration.showNotification("Hello from Babbel Magazine", {
         body: "We have a new article",
         icon: 'favicon.ico'
-      });
-    }
-  });
+    });
+  }
+  else {
+    console.log("No permission to show notifications.");
+    //We need to ask permission
+    Notification.requestPermission(function(permission) {
+      if(permission=='granted') {
+        self.registration.showNotification("Hello from Babbel Magazine", {
+          body: "We have a new article",
+          icon: 'favicon.ico'
+        });
+      }
+    });
+  }
 }
 
 
