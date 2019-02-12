@@ -1,2 +1,52 @@
+# Site settings
+title: Tobias Weiß
+email: tobias.weiss@gmail.com
 url: http://twei55.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+meta_author: Weiß, Tobias
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Footer settings
+footer:
+  copyright: Tobias Weiß
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/twei55
+  - title: github
+    url: http://github.com/twei55
+  - title: twitter
+    url: https://twitter.com/twei55
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/233978/auralbee
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Fontaneallee 25
+  - line: 15732 Berlin
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
 markdown: kramdown
+permalink: pretty
+
+sass:
+  sass_dir: stylesheets/_sass

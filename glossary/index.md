@@ -22,6 +22,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 * **Ammonifikation:** Mineralisierung von organischen Verbindungen unter Freisetzung von Ammoniak
 * **Amphoter:** z.B. Säure-Base-Amphotere bezeichnet man auch als Ampholyte. Diese können sowohl als Säuren als auch als Basen reagieren.
 * **Anthropogen:** Insekten, Spinnentiere, Krebse
+* **Antizyklon: Großräumige Zirkulation, auf der Nordhalbkugel im Uhrzeigersinn, auf der Südhalbkugel gegen der Uhrzeigersinn
 * **Aerob:** Sauerstoff ist in molekular Form gelöst im Wasser vorhanden
 * **Anoxisch:** Sauerstoff nur ungelöst gebunden vorhanden
 * **Anaerob:** Sauerstoff weder gelöst noch ungelöst gebunden vorhanden
@@ -255,6 +256,7 @@ subtitle: Umweltwissenschaftliche Fachbegriffe
 
 * **Taupunkt:** Temperatur, bei der die Luft mit Wasserdampf gesättigt ist. Am Taupunkt betrifft die relative Luftfeuchtigkeit 100%. Wird die Taupunkttemperatur bei unverändertem Druck unterschritten, wird aus feuchter Luft Tau oder Nebel aus feuchter Luft abgeschieden
 * **Taxon/Taxa:** Bezeichnet in der Systematik der Biologie eine Einheit, der entsprechend bestimmter Kriterien eine Gruppe von Lebewesen zugeordnet wird
+* **Thermohaline Zirkulation:** Durch Temperatur- und Salzkonzentrationsunterschiede hervorgerufene Kombination von Meeresströmungen, die vier der fünf Ozeane miteinander verbinden und sich dabei zu einem globalen Kreislauf vereinen.
 * **Tugor(druck):** Druck des Zellsaftes auf die Zellwand
 * **Transkription:** Synthese von RNA (Ribonukleinsäure) auf Vorlage einer DNA
 * **Trockenrasen:** Biotope, die sich an trockenen, nährstoffarmen Standorten ausbilden. In dem von Trockenheit geprägten Magerrasen wachsen niedrige Kraut- und Halbstrauchpflanzen.

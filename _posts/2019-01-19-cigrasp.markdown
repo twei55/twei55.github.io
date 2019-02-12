@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 4
+date: 2019-01-19
+img: screenshot-cigrasp_900.png
+alt: image-alt
+title: Global and Regional Adaptation Support Platform
+project-date: April 2014
+client: PIK Potsdam
+category: Web Development
+techstack: 
+  - Ruby On Rails
+  - jQuery
+  - TileServer
+  - PostgreSQL
+  - OpenLayers
+---
+
+The Climate Impacts: Global and Regional Adaptation Support Platform (ci:grasp) is a web-based climate information service. It aims to support decision makers in developing and emerging countries to prioritise adaptation needs, and to plan and implement appropriate adaptation measures.
+
+ci:grasp is structured based on impact chains, which demonstrate how a given climate stimulus propagates through a system of interest via the direct and indirect impacts it entails. 
+
+ci:grasp was developed at PIK Potsdam in cooperation with <a href="https://www.giz.de/de/html/index.html">GIZ</a>
