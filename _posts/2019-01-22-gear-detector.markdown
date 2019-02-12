@@ -14,5 +14,5 @@ techstack:
   - Rasterio
   - GeoJSON
 ---
-<p>The fishing gear detector is a convolutional neural network that is capable to detect abandoned fishing gear and macroplastic on high-resolution satellite imagery in marine environments.</p>
+<p>The fishing gear detector uses a trained convolutional neural network that is capable to detect characteristical patterns of macroplastic and fishing nets on high-resolution satellite imagery in marine environments.</p>
 

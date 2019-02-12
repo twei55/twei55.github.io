@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2019-01-20
 img: screenshot-babbel-magazine_900.png
-title: Babbel Magazine
+title: "Babbel: The Babbel Magazine"
 alt: Babbel Magazine
 project-date: April 2014
 client: Babbel

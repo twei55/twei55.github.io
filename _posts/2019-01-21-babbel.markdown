@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2019-01-21
 img: screenshot-babbel_900.png
-title: Babbel.com
+title: "Babbel: Main Platform"
 alt: Babbel Index Page
 project-date: April 2014
 client: Babbel
@@ -11,11 +11,9 @@ category: Web Development
 techstack:
   - Ruby On Rails
   - Node.js
-  - Flux
-  - Babel, Webpack, Gulp
+  - Terraform
   - Multiple AWS services
 ---
 
 <p>Babbel's online language learning app empowers learners to start speaking a new language straight away. Recognised by Fast Company Magazine as the most innovative education company of 2016, Babbel's courses make it easy to learn 14 different languages from 7 display languages. Babbel's language learning app is available for web, iOS and Android. The company recently surpassed 1,000,000 active subscribers and has a team of over 600 people from over 50 nations working in Berlin and New York.<p>
 <p>Over the last 6 years I took over substantial duties in the refactoring of Babbel's static content delivery pipeline, payment services and the redesign of the platform.</p>
-<p>Furthermore I initially developed the technical concept for a new product demo funnel and over the years, contributed significantly to the development of this application.</p>
