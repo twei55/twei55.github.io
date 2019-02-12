@@ -35,11 +35,8 @@ social:
     url: https://twitter.com/twei55
   - title: stack-overflow
     url: https://stackoverflow.com/users/233978/auralbee
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Fontaneallee 25
-  - line: 15732 Berlin
+  - title: soundcloud
+    url: https://soundcloud.com/foo7sw1tch
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
