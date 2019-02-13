@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2019-01-22
 img: screenshot-geojson_900.png
-title: Fishing Gear Detection 
+title: Plastic Debris and Fishing Gear Detection 
 alt: Screenshot Geojson
 client: University of Rostock, GFZ Potsdam
 category: Web Development
