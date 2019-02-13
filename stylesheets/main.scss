@@ -187,6 +187,11 @@ header {
       }
     }
   }
+
+  .navbar-toggle, .navbar-toggle:focus {
+    border-color: $color-secondary-dark;
+    background-color: $color-secondary-light;
+  }
 }
 
 .navbar-default,
