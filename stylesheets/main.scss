@@ -15,6 +15,7 @@ body {
 
 p {
   font-size: 20px;
+  line-height: 1.7em;
 
   &.small {
     font-size: 16px;
@@ -251,7 +252,7 @@ section {
 
   .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    height: 270px;
 
     .portfolio-link {
       display: block;
@@ -300,7 +301,7 @@ section {
 
 @media(min-width:767px) {
   #portfolio .portfolio-item {
-    margin: 0 0 50px;
+    height: 300px;
   }
 }
 
